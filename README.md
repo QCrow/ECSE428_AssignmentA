@@ -81,7 +81,36 @@ Steven Tian: 261032441
     - Invalid Textbook Price (Error flow)
 
 16. As a student seller, I want to be able to mark an order as fulfilled once I have shipped the textbook to the buyer.
+
     - Mark Order as Fulfilled (Normal flow)
     - Provide Tracking Information (Normal flow)
     - Choose Shipping Option and Set Shipping Cost (Normal flow)
     - Mark Order as Fulfilled Before Shipping Textbook (Error flow)
+
+17. As a student buyer, I want to be able to choose between multiple payment options and securely enter my payment information.
+
+    - Choose Payment Option and Enter Payment Information (Normal flow)
+    - Process Payment and Receive Confirmation (Normal flow)
+    - Request Refund (Alternate flow)
+    - Insufficient Funds (Error flow)
+
+18. As a student seller, I want to receive payment for the textbook I have sold, either through credit card or PayPal.
+
+    - Receive Payment (Normal flow)
+    - View Sale Details (Normal flow)
+    - Resolve Sale Dispute (Alternate flow)
+    - Mark Sale as Complete Before Payment Received (Error flow)
+
+19. As a user, I want to ensure that all my user and payment information is securely stored and encrypted.
+
+    - Verify Secure Data Storage (Normal flow)
+    - Verify Secure Password Storage (Normal flow)
+    - Reset Password (Alternate flow)
+    - Verify Personal Information Protection (Normal flow)
+    - Invalid Personal or Payment Information (Error flow)
+
+20. As a user, I want to be able to access a comprehensive FAQ section that covers common questions and issues related to the used textbook exchange service.
+    - Access FAQ Section (Normal flow)
+    - Submit Support Ticket (Alternate flow)
+    - Submit Support Ticket (Alternate flow)
+    - Invalid Support Ticket (Error flow)
