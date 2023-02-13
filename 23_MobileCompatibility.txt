@@ -1,0 +1,7 @@
+PLAN [01-Sep 2012]: Full system release
+GIST : Develop responsive and mobile-friendly user interface for the system
+STAKEHOLDER [planning, final signoff]: User Experience Manager
+AUTHORITY [final signoff]: Marketing Manager
+METER [System]: Optimized for mobile devices with all features and functionality accessible and usable on smaller screens
+MUST [01-Sep 2012]: Full system release with responsive design
+WISH [01-Aug 2012]: Full system release with responsive design and mobile compatibility on all popular devices.

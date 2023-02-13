@@ -1,0 +1,7 @@
+PLAN [01-Sep 2023]: Omnichannel Accessibility
+GIST: Ensure the system provides a seamless and consistent user experience across all channels and devices
+STAKEHOLDER [planning, final signoff]: User Experience Manager
+AUTHORITY [final signoff]: Technical Manager
+METER [System Accessibility]: User experience consistency and seamless functionality across all channels and devices
+MUST [01-Sep 2023]: System accessible from multiple devices and channels with a consistent user experience
+WISH [01-Sep 2023]: Response time of less than 2 seconds on all devices and channels.

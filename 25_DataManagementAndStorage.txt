@@ -1,0 +1,11 @@
+METER [Data Management]: Efficiently manage and store user data with a response time of less than 1 second
+AUTHORITY [Data Management]: System Administrator
+MUST [Data Management]: Have robust data management and backup procedures in place, with a backup frequency of at least once a day
+
+METER [Data Scalability]: Ability to handle large amounts of data, with the ability to scale to accommodate the growth in user data
+AUTHORITY [Data Scalability]: System Administrator
+MUST [Data Scalability]: Handle a user base of 100,000 users
+
+METER [Data Retrieval]: Efficiently search and retrieve data, with a response time of less than 1 second for data retrieval
+AUTHORITY [Data Retrieval]: System Administrator
+MUST [Data Retrieval]: Have fast and accurate search functionality, with a maximum error rate of 5%

@@ -1,0 +1,7 @@
+PLAN [01-Sep 2012]: Full User Interface Launch
+GIST : Develop a fast and responsive user interface for the used textbook exchange service
+STAKEHOLDER [planning, final signoff]: User Interface Manager
+AUTHORITY [final signoff]: Development Manager
+METER [User Interface]: Signed off acceptance by <those with final signoff>
+MUST [01-Sep 2012]: Launch user interface with page loading times of less than 2 seconds and minimal lag
+WISH [01-Aug 2012]: Launch user interface with page loading times of less than 1 second and minimal lag

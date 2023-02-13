@@ -1,0 +1,7 @@
+PLAN [01-Sep 2012]: User Profile Customization Release
+GIST : Allow users to customize their profile and experience on the platform
+STAKEHOLDER [planning, final signoff]: User Experience Manager
+AUTHORITY [final signoff]: Product Manager
+METER [Profile Customization]: Number of users successfully customizing their profile
+MUST [01-Sep 2012]: Allow users to customize their language and currency preferences
+WISH [01-Aug 2012]: Allow users to customize additional profile settings and preferences
