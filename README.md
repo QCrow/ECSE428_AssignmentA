@@ -63,4 +63,25 @@ Steven Tian: 261032441
     - Feedback and Rating Displayed on Textbook Details Page (Normal flow)
     - Feedback and Rating Displayed on Profile Page (Normal flow)
     - Feedback and Rating Before Purchase or Sale (Error flow)
-13.
+13. As a user, I want to be able to add textbooks to my wishlist and receive notifications when they become available for purchase.
+    - Add Textbook to Wishlist (Normal flow)
+    - View and Remove Textbooks from Wishlist (Normal flow)
+    - Textbook on Wishlist Sold (Alternate flow)
+    - Textbook Already Sold (Error flow)
+14. As a student seller, I want to be able to accurately describe the condition of the textbook I'm listing for sale.
+    - Choose Textbook Condition (Normal flow)
+    - Display Textbook Condition (Normal flow)
+    - Provide Additional Details in Description Field (Alternate flow)
+    - Invalid Textbook Condition (Error flow)
+15. As a student seller, I want to be able to set the price for my textbook taking into consideration the condition and demand.
+
+    - Set Textbook Price (Normal flow)
+    - Display and Negotiate Textbook Price (Normal flow)
+    - Agree Upon Final Price (Normal flow)
+    - Invalid Textbook Price (Error flow)
+
+16. As a student seller, I want to be able to mark an order as fulfilled once I have shipped the textbook to the buyer.
+    - Mark Order as Fulfilled (Normal flow)
+    - Provide Tracking Information (Normal flow)
+    - Choose Shipping Option and Set Shipping Cost (Normal flow)
+    - Mark Order as Fulfilled Before Shipping Textbook (Error flow)
