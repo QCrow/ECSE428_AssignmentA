@@ -128,33 +128,74 @@ Steven Tian: 261032441
     - Verify Confirmation of Deactivation (Normal flow)
     - Verify Error Message for Incomplete Orders (Error flow)
 
+23. As a user, I want to receive suggestions and recommendations for textbooks that I may be interested in.
+
+    - Verify Recommendations Based on Browsing and Search History (Normal flow)
+    - Verify Display of Recommended Textbooks (Normal flow)
+    - Verify Option to Receive Recommendation Notifications (Alternate flow)
+    - Verify Error Message for Unsupported Devices (Error flow)
+
+24. As a user, I want to be able to securely log in and authenticate my identity.
+
+    - Verify Email and Password Login (Normal flow)
+    - Verify Secure Password Storage (Alternate flow)
+    - Verify Email Verification (Alternate flow)
+
+25. As a student seller, I want to be able to upload images of the textbook I am listing for sale.
+
+    - Verify ability to upload multiple images of textbook (Normal flow)
+    - Verify images displayed on textbook's details page (Normal flow)
+    - Verify primary image selection (Alternate flow)
+    - Verify error message for invalid image upload (Error flow)
+
+26. As a user, I want to be able to save textbooks and searches for future reference.
+
+    - Verify Adding Textbooks to Wishlist (Normal flow)
+    - Verify Viewing Wishlist (Alternate flow)
+    - Verify Removing Textbooks from Wishlist (Alternate flow)
+    - Verify Saving Search Criteria (Alternate flow)
+    - Verify Error Message for Invalid Wishlist Addition (Error flow)
+
+27. As a user, I want to be able to rate and review textbooks and users.
+
+    - User rates a textbook (Normal flow)
+    - User writes a review for a textbook (Normal flow)
+    - User rates and reviews another user (Alternate flow)
+    - System displays error message for invalid content (Error flow)
+
+28. As an administrative user, I want to be able to manage the used textbook exchange service, including managing users, textbooks, and reports.
+    - Verify Access to Administration Panel (Normal flow)
+    - Verify User Management (Alternate flow)
+    - Verify Textbook Management (Alternate flow)
+    - Verify Error Messages for Invalid Actions (Error flow)
+
 ## Non-functional requirements
 
-29. As a user, I want the used textbook exchange service to be fast and responsive, even as the number of users grows.
+1.  As a user, I want the used textbook exchange service to be fast and responsive, even as the number of users grows.
     - The system shall have a fast and responsive user interface, with minimal loading times and lag.
     - The system shall be scalable, with the ability to handle increased traffic and user numbers without a significant degradation in performance.
     - The system shall be optimized for performance, using techniques such as caching and minification to reduce load times and improve the user experience.
-30. As a user, I want the used textbook exchange service to be accessible and usable on my mobile device.
+2.  As a user, I want the used textbook exchange service to be accessible and usable on my mobile device.
     - The system shall be fully responsive, with a mobile-friendly user interface that is optimized for smaller screens and touch-based navigation.
     - The system shall be compatible with a wide range of mobile devices, including smartphones and tablets.
     - The system shall provide a seamless mobile experience, with all features and functionality available on mobile devices as on desktop devices.
-31. As a user, I want the used textbook exchange service to be personalized and tailored to my needs.
+3.  As a user, I want the used textbook exchange service to be personalized and tailored to my needs.
     - The system shall allow users to customize their profile, including settings such as their preferred language and currency.
     - The system shall provide personalized recommendations and suggestions, based on the user's preferences and history.
     - The system shall provide a highly customizable experience, with the ability for users to tailor the service to their specific needs and preferences.
-32. As a user, I want the used textbook exchange service to efficiently manage and store my data.
+4.  As a user, I want the used textbook exchange service to efficiently manage and store my data.
     - The system shall efficiently manage and store user data, with robust data management and backup procedures in place.
     - The system shall be able to handle large amounts of data, with the ability to scale as the amount of data grows.
     - The system shall be able to efficiently search and retrieve data, with fast and accurate search functionality and data retrieval times.
-33. As a user, I want the used textbook exchange service to be reliable and always available.
+5.  As a user, I want the used textbook exchange service to be reliable and always available.
     - The system shall have an availability rate of 99.5% or higher, with no single point of failure that would cause a system-wide outage.
     - The system shall have robust disaster recovery and backup procedures in place to minimize downtime in case of unexpected events.
     - The system shall be able to handle unexpected events and errors, such as server crashes or power outages, without impacting the user experience.
-34. As a user, I want the used textbook exchange service to be accessible from multiple channels and devices.
+6.  As a user, I want the used textbook exchange service to be accessible from multiple channels and devices.
     - The system shall be accessible from multiple channels, including desktop, mobile, and tablet devices.
     - The system shall provide an omnichannel experience, with a consistent and seamless user experience across all devices and channels.
     - The system shall support cross-device and cross-channel functionality, allowing users to continue their experience regardless of the device or channel they are using.
-35. As a user, I want the used textbook exchange service to be integrated with my social media accounts.
+7.  As a user, I want the used textbook exchange service to be integrated with my social media accounts.
     - The system shall be integrated with popular social media platforms, including but not limited to Facebook, Twitter, and Instagram.
     - The system shall allow users to easily share their experiences and interactions on the used textbook exchange service with their social media followers.
     - The system shall provide a seamless social media integration, with a consistent and cohesive user experience across all platforms.
