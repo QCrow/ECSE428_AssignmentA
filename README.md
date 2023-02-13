@@ -1,5 +1,4 @@
 # ECSE428_AssignmentA
-
-
-## Yiqiao Wang: 261011322
-## Steven Tian:
+Submission for
+Yiqiao Wang: 261011322
+Steven Tian: 261032441
