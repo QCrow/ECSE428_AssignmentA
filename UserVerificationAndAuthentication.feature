@@ -1,4 +1,5 @@
 Feature: User Login and Security
+As a user, I want to be able to securely log in and authenticate my identity.
 
 Scenario: Verify Email and Password Login
 Given the user is on the login page

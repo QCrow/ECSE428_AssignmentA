@@ -1,4 +1,5 @@
 Feature: User Account Deactivation
+As a user, I want to be able to deactivate my account if I no longer wish to use the used textbook exchange service. 
 
 Scenario: Verify Account Deactivation Process
 Given the user is logged in to their account

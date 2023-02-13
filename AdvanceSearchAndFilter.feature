@@ -1,4 +1,5 @@
 Feature: Search for Textbooks
+As a user, I want to be able to search for textbooks using advanced search and filtering options. 
 
 Scenario: Search for Textbooks by Title, Author, ISBN, Course Code, or Keyword
 Given the user is on the homepage of the used textbook exchange service
