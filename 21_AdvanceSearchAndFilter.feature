@@ -1,7 +1,7 @@
 Feature: Search for Textbooks
 As a user, I want to be able to search for textbooks using advanced search and filtering options. 
 
-Scenario: Search for Textbooks by Title, Author, ISBN, Course Code, or Keyword
+Scenario: Search for Textbooks by Title, Author, ISBN, Course Code, or Keyword (Normal flow)
 Given the user is on the homepage of the used textbook exchange service
 When the user enters a query in the search bar
 Then the system should display a list of results based on the query, including books that match the title, author, ISBN, course code, or keyword
