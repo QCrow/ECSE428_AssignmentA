@@ -4,6 +4,8 @@ Submission for\
 Yiqiao Wang: 261011322\
 Steven Tian: 261032441
 
+## Functional Requirements
+
 1. As a new user, I want to be able to create an account so that I can access the site's features.
    - Successful Account Creation (Normal flow)
    - Email Already In Use (Error flow)
@@ -114,3 +116,45 @@ Steven Tian: 261032441
     - Submit Support Ticket (Alternate flow)
     - Submit Support Ticket (Alternate flow)
     - Invalid Support Ticket (Error flow)
+21. As a user, I want to be able to search for textbooks using advanced search and filtering options.
+    - Search for Textbooks by Title, Author, ISBN, Course Code, or Keyword (Normal flow)
+    - Filter Search Results by Condition, Price, and Date Posted (Alternate flow)
+    - Sort Search Results by Relevance, Price, or Date Posted (Alternate flow)
+    - Display Error Message for Invalid Search Queries (Error flow)
+22. As a user, I want to be able to deactivate my account if I no longer wish to use the used textbook exchange service.
+
+    - Verify Account Deactivation Process (Normal flow)
+    - Verify Account Information Deletion (Normal flow)
+    - Verify Confirmation of Deactivation (Normal flow)
+    - Verify Error Message for Incomplete Orders (Error flow)
+
+## Non-functional requirements
+
+29. As a user, I want the used textbook exchange service to be fast and responsive, even as the number of users grows.
+    - The system shall have a fast and responsive user interface, with minimal loading times and lag.
+    - The system shall be scalable, with the ability to handle increased traffic and user numbers without a significant degradation in performance.
+    - The system shall be optimized for performance, using techniques such as caching and minification to reduce load times and improve the user experience.
+30. As a user, I want the used textbook exchange service to be accessible and usable on my mobile device.
+    - The system shall be fully responsive, with a mobile-friendly user interface that is optimized for smaller screens and touch-based navigation.
+    - The system shall be compatible with a wide range of mobile devices, including smartphones and tablets.
+    - The system shall provide a seamless mobile experience, with all features and functionality available on mobile devices as on desktop devices.
+31. As a user, I want the used textbook exchange service to be personalized and tailored to my needs.
+    - The system shall allow users to customize their profile, including settings such as their preferred language and currency.
+    - The system shall provide personalized recommendations and suggestions, based on the user's preferences and history.
+    - The system shall provide a highly customizable experience, with the ability for users to tailor the service to their specific needs and preferences.
+32. As a user, I want the used textbook exchange service to efficiently manage and store my data.
+    - The system shall efficiently manage and store user data, with robust data management and backup procedures in place.
+    - The system shall be able to handle large amounts of data, with the ability to scale as the amount of data grows.
+    - The system shall be able to efficiently search and retrieve data, with fast and accurate search functionality and data retrieval times.
+33. As a user, I want the used textbook exchange service to be reliable and always available.
+    - The system shall have an availability rate of 99.5% or higher, with no single point of failure that would cause a system-wide outage.
+    - The system shall have robust disaster recovery and backup procedures in place to minimize downtime in case of unexpected events.
+    - The system shall be able to handle unexpected events and errors, such as server crashes or power outages, without impacting the user experience.
+34. As a user, I want the used textbook exchange service to be accessible from multiple channels and devices.
+    - The system shall be accessible from multiple channels, including desktop, mobile, and tablet devices.
+    - The system shall provide an omnichannel experience, with a consistent and seamless user experience across all devices and channels.
+    - The system shall support cross-device and cross-channel functionality, allowing users to continue their experience regardless of the device or channel they are using.
+35. As a user, I want the used textbook exchange service to be integrated with my social media accounts.
+    - The system shall be integrated with popular social media platforms, including but not limited to Facebook, Twitter, and Instagram.
+    - The system shall allow users to easily share their experiences and interactions on the used textbook exchange service with their social media followers.
+    - The system shall provide a seamless social media integration, with a consistent and cohesive user experience across all platforms.
